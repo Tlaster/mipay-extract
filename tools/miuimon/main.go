@@ -36,10 +36,10 @@ const (
 		"path=/xiaomi.eu/MIUI-WEEKLY-RELEASES"
 	SfDownBaseUrl = "https://jaist.dl.sourceforge.net/" +
 		"project/xiaomi-eu-multilang-miui-roms"
-	GithubOwner = "linusyang92"
+	GithubOwner = "tlaster"
 	GithubRepo  = "mipay-extract"
 	GithubPath  = "deploy.sh"
-	GithubEmail = "32575696+linusyang92@users.noreply.github.com"
+	GithubEmail = "tlaster@users.noreply.github.com"
 )
 
 type MyLogger struct {

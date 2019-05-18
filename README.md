@@ -1,7 +1,7 @@
 # Mi Pay Extractor
 Extract Mi Pay from MIUI China Rom
 
-[![Build Status](https://travis-ci.org/linusyang92/mipay-extract.svg)](https://travis-ci.org/linusyang92/mipay-extract)
+[![Build Status](https://travis-ci.org/tlaster/mipay-extract.svg)](https://travis-ci.org/tlaster/mipay-extract)
 
 **Use at your own risk!**
 
@@ -18,9 +18,9 @@ apt-get install -y openjdk-8-jre python2.7
 
 **Note**: 
 - It is recommended to run `extract.bat` on Windows. WSL (Windows Subsystem for Linux) is **not supported** due to issues of the emulated file system in WSL. You need a real Linux VM on Windows to run `./extract.sh`.
-- To avoid line-ending issues, Windows users should **directly** [download the repo](https://github.com/linusyang92/mipay-extract/archive/master.zip) through the Github's "Clone or Download" button, instead of using a Windows version's Git command. If you clone the repo using a MinGW version's Git, the line endings may be incorrectly converted to CR/LF, which makes the generated packages invalid to use.
+- To avoid line-ending issues, Windows users should **directly** [download the repo](https://github.com/tlaster/mipay-extract/archive/master.zip) through the Github's "Clone or Download" button, instead of using a Windows version's Git command. If you clone the repo using a MinGW version's Git, the line endings may be incorrectly converted to CR/LF, which makes the generated packages invalid to use.
 
-Automatic builds for selected devices are available in [releases](https://github.com/linusyang92/mipay-extract/releases).
+Automatic builds for selected devices are available in [releases](https://github.com/tlaster/mipay-extract/releases).
 
 ## Recover Chinese Functions
 
