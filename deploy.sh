@@ -29,9 +29,9 @@ if [[ "$1" == "rom" ]]; then
         $aria2c ${i//$EU_VER/$VER}
     done
     base_url="https://github.com/tlaster/mipay-extract/releases/download/$VER"
-    $aria2c $base_url/eufix-MiMix2-$VER.zip
-    $aria2c $base_url/mipay-MIMIX2-$VER.zip
-    $aria2c $base_url/eufix-appvault-MIMIX2-$VER.zip
+    $aria2c $base_url/eufix-MI9SE-$VER.zip
+    $aria2c $base_url/mipay-MI9SE-$VER.zip
+    $aria2c $base_url/eufix-appvault-MI9SE-$VER.zip
     exit 0
 fi
 for i in "${urls[@]}"

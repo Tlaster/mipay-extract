@@ -30,7 +30,7 @@ const (
 		"Chrome/63.0.3239.132 Safari/537.36"
 	MiuiUpdateUrl  = "https://www.miui.com/download-337.html"
 	GqReleaseUrl   = "https://miui.dedyk.gq"
-	SfReleaseModel = "MIMix2"
+	SfReleaseModel = "MI9SE"
 	SfReleaseUrl   = "https://sourceforge.net/projects" +
 		"/xiaomi-eu-multilang-miui-roms/rss?" +
 		"path=/xiaomi.eu/MIUI-WEEKLY-RELEASES"
