@@ -12,7 +12,7 @@ script:
 deploy:
   provider: releases
   api_key:
-    secure: GITHUB_TOKEN
+    secure: TxqYa04F9V3xRqNcHqpVO0Fl1CHh4qJMJN6GAFbYklG1wx7wBs/D0iVpqFc1IOFy/5uzoLZxRpomODga7A0rr872RHYcrpZRfvByAVx20Vi5k/06YsBbpF3vjM3xIgmJEfE5vQrtWomGtl8B+8gYqpzsvAuWM7/DeuHXhb6TP8HqStOBPDAavmSYloIZTVQfbW/4kJreSBF7m4ffliOGSh5k88yIVbt6ZjUoUGg9JNZXdT1HLUx4EUjs4mpKZvUPRArln1uEj8jtiw5V1jGkIsqa5wkiQkp9KH74OvQ6eMHRsuA4jal4gLG3Mchu4vvnIyks3o+5CDdb7SpwhjUVd2etOCdH7tj4cn+Qs+FFh4zZKgu01WMLM9HzwUvRNzEPtNP7Thq2PtNmxyX1CvCZp4x31CAwd463kwz9jbmzWASlj13nMmm+s+gcybRDj3MWk6Jz0Vo5JarmbNpGh8KvMOZsPiQbV/w63+LMBMX7Ds13Gm/EnzdeABp3dRWUkm1ra++KtgYXLiaIPvcTBmPk/mytjlqXPQzJ5RH1uFrq9+/CmQ6C+uu69LZK7brK/UofqOrWXa2g+DqegaDqB7k8rN1TI3+WJ7RFim8agLp93z1f/Opu3EYXseQvgCred+9xOoiHNH02P+2HgV6sxD/HF6cWqCILQIP8VNPUGsFspoo=
   file_glob: true
   file:
   - mipay-*.zip
