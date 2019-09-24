@@ -6,7 +6,7 @@ declare -a urls=(
 'https://bigota.d.miui.com/V10.3.6.0.PFBCNXM/miui_GRUS_V10.3.6.0.PFBCNXM_71316d435a_9.0.zip'
 )
 
-EU_VER=10.3.3.0
+EU_VER=10.3.6.0
 
 declare -a eu_urls=(
 
