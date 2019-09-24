@@ -3,7 +3,7 @@
 declare -a urls=(
 
 # Rom URLs
-'https://bigota.d.miui.com/V10.3.3.0.PFBCNXM/miui_GRUS_V10.3.3.0.PFBCNXM_3dcc2884fc_9.0.zip'
+'https://bigota.d.miui.com/V10.3.6.0.PFBCNXM/miui_GRUS_V10.3.6.0.PFBCNXM_71316d435a_9.0.zip'
 )
 
 EU_VER=10.3.3.0
@@ -11,7 +11,7 @@ EU_VER=10.3.3.0
 declare -a eu_urls=(
 
 # EU Rom URLs
-'https://jaist.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_MI9SE_V10.3.3.0.PFBCNXM_v10-9.zip'
+'https://jaist.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_MI9SE_V10.3.6.0.PFBCNXM_v10-9.zip'
 )
 
 command -v dirname >/dev/null 2>&1 && cd "$(dirname "$0")"
